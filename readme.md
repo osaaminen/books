@@ -8,7 +8,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Architecture](#architecture)
 - [Art](#art)
 - [Autobiography](#autobiography)
-- [Awareness](#awareness)
 - [Basic Income](#basic-income)
 - [Biographies](#biographies)
 - [Biology](#biology)
@@ -28,27 +27,14 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Data Science](#data-science)
 - [Databases](#databases)
 - [Design](#design)
-- [Drugs](#drugs)
 - [Economics](#economics)
 - [Engineering](#engineering)
 - [Environment](#environment)
-- [Evolution](#evolution)
-- [Fiction](#fiction)
-  - [Adventure](#adventure)
-  - [Comedy](#comedy)
-  - [Fantasy](#fantasy)
-    - [Fantasy series](#fantasy-series)
-  - [Short Stories](#short-stories)
-  - [Thriller](#thriller)
-- [Film Making](#film-making)
 - [Finance](#finance)
 - [Fitness](#fitness)
 - [Functional programming](#functional-programming)
-- [Future](#future)
 - [Game Development](#game-development)
 - [Graphic design](#graphic-design)
-- [History](#history)
-  - [Alternative history](#alternative-history)
 - [Investing](#investing)
 - [Kubernetes](#kubernetes)
 - [Leadership](#leadership)
@@ -58,19 +44,12 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Math](#math)
 - [Memoirs](#memoirs)
 - [Mindset](#mindset)
-- [Minimalism](#minimalism)
-- [Music Production](#music-production)
-- [Neuroscience](#neuroscience)
-- [Non Fiction](#non-fiction)
 - [Nutrition](#nutrition)
 - [Operating Systems](#operating-systems)
   - [iOS](#ios)
   - [Linux](#linux)
   - [MacOS](#macos)
-- [Philosophy](#philosophy)
 - [Physics](#physics)
-- [Poetry](#poetry)
-- [Politics](#politics)
 - [Programming interviews](#programming-interviews)
 - [Programming language design](#programming-language-design)
 - [Programming languages](#programming-languages)
@@ -101,19 +80,13 @@ _Please read [contribution guidelines](contributing.md) before contributing._
   - [TypeScript](#typescript)
   - [Agda](#agda)
 - [Programming](#programming)
-- [Psychedelics](#psychedelics)
-- [Psychology](#psychology)
 - [Quantum physics](#quantum-physics)
 - [Regular Expressions](#regular-expressions)
 - [Reinforcement learning](#reinforcement-learning)
 - [Reverse engineering](#reverse-engineering)
 - [Science](#science)
 - [SciFi](#scifi)
-  - [SciFi Series](#scifi-series)
 - [Security](#security)
-- [Sleep](#sleep)
-- [Society](#society)
-- [Spirituality](#spirituality)
 - [Startups](#startups)
 - [Statistics](#statistics)
 - [Strategy](#strategy)
@@ -132,7 +105,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
   - [Redux](#redux)
   - [Webpack](#webpack)
   - [Web design](#web-design)
-- [Other](#other)
+
 
 ## Algorithms
 
@@ -152,41 +125,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [📕 Drawing on the right side of the brain (1979)](https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain)
 
-## Autobiography
-
-- [📕 I know why the caged bird sings (1993)](https://www.goodreads.com/book/show/13214.I_Know_Why_the_Caged_Bird_Sings)
-- [📕 Hit Refresh (2017)](https://www.goodreads.com/book/show/30835567-hit-refresh)
-- [📕 Becoming (2018)](https://www.goodreads.com/book/show/38746485-becoming)
-
-## Awareness
-
-- [📕 Last chance to see](https://www.goodreads.com/book/show/8696.Last_Chance_to_See)
-
 ## Basic Income
 
 - [📖 World After Capital (2018)](http://worldaftercapital.org/)
 
-## Biographies
-
-- [📕 The autobiography of Malcolm X (1965)](https://www.goodreads.com/book/show/92057.The_Autobiography_of_Malcolm_X)
-- [📕 Napoleon bonaparte: an intimate biography (1971)](https://www.goodreads.com/book/show/22175392-napoleon-bonaparte-an-intimate-biography?rating=1)
-- [📕 The power broker (1974)](https://www.goodreads.com/book/show/1111.The_Power_Broker)
-- [📕 Surely you’re joking Mr Feynman (1984)](https://www.goodreads.com/book/show/5544.Surely_You_re_Joking_Mr_Feynman_)
-- [📕 The man who knew infinity: a life of the genius Ramanujan (1991)](https://www.goodreads.com/book/show/106139.The_Man_Who_Knew_Infinity)
-- [📕 Speak, memory (1951)](https://www.goodreads.com/book/show/30594.Speak_Memory)
-- [📕 Madame curie: a biography (2001)](https://www.goodreads.com/book/show/341166.Madame_Curie)
-- [📕 Benjamin franklin: an american life (2004)](https://www.goodreads.com/book/show/10883.Benjamin_Franklin)
-- [📕 Team of rivals: the political genius of Abraham Lincoln (2005)](https://www.goodreads.com/book/show/2199.Team_of_Rivals)
-- [📕 Einstein: his life and universe (2007)](https://www.goodreads.com/book/show/10884.Einstein)
-- [📕 The strangest man (2009)](https://www.goodreads.com/book/show/6629359-the-strangest-man)
-- [📕 Steve Jobs (2011)](https://www.goodreads.com/book/show/11084145-steve-jobs)
-- [📕 The Everything Store: Jeff Bezos and the Age of Amazon (2013)](https://www.goodreads.com/book/show/17660462-the-everything-store)
-- [📕 My Journey: Transforming Dreams into Actions by A.P.J Abdul Kalam ](https://www.goodreads.com/book/show/18371021-my-journey)
-
-## Biology
-
-- [📕 Molecular Biology of the Cell (1983)](https://www.goodreads.com/book/show/13400.Molecular_Biology_of_the_Cell)
-- [📕 Rang & Dale's Pharmacology (1987)](https://www.goodreads.com/book/show/380577.Rang_Dale_s_Pharmacology)
 
 ## Business
 
@@ -305,11 +247,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 The Best Interface Is No Interface: The Simple Path to Brilliant Technology](http://www.nointerface.com/book/)
 - [📕 Speculative Everything (2013)](https://www.amazon.com/Speculative-Everything-Design-Fiction-Dreaming/dp/0262019841)
 
-## Drugs
-
-- [📕 A Primer of Drug Action (1975)](https://www.goodreads.com/book/show/1134902.A_Primer_of_Drug_Action)
-- [📕 Drugged: The Science and Culture Behind Psychotropic Drugs (2013)](https://www.goodreads.com/book/show/17847528-drugged)
-- [📕 Pleasures of the Brain (2009)](https://www.goodreads.com/book/show/6777669-pleasures-of-the-brain)
 
 ## Economics
 
@@ -330,11 +267,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [📕 Structures: or why things don't fall down (1978)](https://www.goodreads.com/book/show/245344.Structures)
 
-## Evolution
-
-- [📕 The selfish gene (1976)](https://www.goodreads.com/book/show/61535.The_Selfish_Gene)
-- [📕 Darwin's dangerous idea (1995)](https://www.goodreads.com/book/show/2068.Darwin_s_Dangerous_Idea)
-- [📕 Life ascending: the ten great inventions of evolution (2009)](https://www.goodreads.com/book/show/6429264-life-ascending)
 
 ## Environment
 
@@ -343,110 +275,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Drawdown: The Most Comprehensive Plan Ever Proposed to Reverse Global Warming (2017)](https://www.drawdown.org/)
 - [📕 Whole Earth Discipline (2009)](https://www.amazon.com/Whole-Earth-Discipline-Ecopragmatist-Manifesto/dp/0670021210)
 
-## Fiction
-
-- [📕 Notes from underground (1864)](https://www.goodreads.com/book/show/17876.Notes_from_Underground_White_Nights_The_Dream_of_a_Ridiculous_Man_and_Selections_from_The_House_of_the_Dead)
-- [📕 Crime and punishment (1866)](https://www.goodreads.com/book/show/7144.Crime_and_Punishment)
-- [📕 The idiot (1869)](https://www.goodreads.com/book/show/12505.The_Idiot)
-- [📕 The brothers karamazov (1880)](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov)
-- [📕 Flatland (1884)](https://www.goodreads.com/book/show/433567.Flatland)
-- [📕 The picture of dorian gray (1890)](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray)
-- [📕 The yellow wallpaper (1892)](https://www.goodreads.com/book/show/286957.The_Yellow_Wall_Paper)
-- [📕 The iron heel (1908)](https://www.goodreads.com/book/show/929783.The_Iron_Heel)
-- [📕 The ragged trousered philanthropists (1914)](https://www.goodreads.com/book/show/921359.The_Ragged_Trousered_Philanthropists)
-- [📕 We (1924)](https://www.goodreads.com/book/show/76171.We)
-- [📕 Heart of a dog (1925)](https://www.goodreads.com/book/show/113205.Heart_of_a_Dog)
-- [📕 The great gatsby (1925)](https://www.goodreads.com/book/show/4671.The_Great_Gatsby)
-- [📕 Brave new world (1932)](https://www.goodreads.com/book/show/5129.Brave_New_World)
-- [📕 The glass bead game (1943)](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game)
-- [📕 Animal farm (1945)](https://www.goodreads.com/book/show/7613.Animal_Farm)
-- [📕 The plague (1947)](https://www.goodreads.com/book/show/11989.The_Plague)
-- [📕 No longer human (1948)](http://en.wikipedia.org/wiki/No_Longer_Human)
-- [📕 Nineteen eighty-four (1949)](https://www.goodreads.com/book/show/5470.1984)
-- [📕 Bel: An essay on man in revolt (1951)](https://www.goodreads.com/book/show/11990.The_Rebel)
-- [📕 East of eden (1952)](https://www.goodreads.com/book/show/4406.East_of_Eden)
-- [📕 Fahrenheit 451 (1953)](https://www.goodreads.com/book/show/17470674-fahrenheit-451)
-- [📕 The doors of perception (1954)](https://www.goodreads.com/book/show/3188964-the-doors-of-perception) - Details Aldous Huxley’s own experiences when taking mescaline.
-- [📕 Lolita (1955)](https://www.goodreads.com/book/show/7604.Lolita)
-- [📕 Doctor zhivago (1957)](https://www.goodreads.com/book/show/130440.Doctor_Zhivago)
-- [📕 Flowers for algernon (1959)](https://my.mindnode.com/HnYCLfb3q3xZCVswbafBfoMeDKngVCT1jaa8vYyh)
-- [📕 Catch-22 (1961)](https://www.goodreads.com/book/show/168668.Catch_22)
-- [📕 Pale fire (1962)](https://www.goodreads.com/book/show/7805.Pale_Fire)
-- [📕 Island (1962)](https://www.goodreads.com/book/show/5130.Island)
-- [📕 We have always lived in the castle (1962)](https://www.goodreads.com/book/show/89724.We_Have_Always_Lived_in_the_Castle)
-- [📕 One day in the life of ivan denisovich (1962)](https://www.goodreads.com/book/show/17125.One_Day_in_the_Life_of_Ivan_Denisovich)
-- [📕 Monday begins on saturday (1964)](https://www.goodreads.com/review/show/742548546)
-- [📕 Dune (1965)](https://www.goodreads.com/book/show/234225.Dune)
-- [📕 Stoner (1965)](https://www.goodreads.com/book/show/166997.Stoner)
-- [📕 Master and margarita (1967)](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita)
-- [📕 One hundred years of solitude (1967)](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude)
-- [📕 Slaughterhouse five (1969)](https://www.goodreads.com/book/show/4981.Slaughterhouse_Five)
-- [📕 Roadside picnic (1972)](https://www.goodreads.com/book/show/331256.Roadside_Picnic)
-- [📕 Augustus (1972)](https://www.goodreads.com/book/show/89231.Augustus)
-- [📕 The forever war (1974)](https://www.goodreads.com/book/show/21611.The_Forever_War)
-- [📕 The shining (1977)](https://www.goodreads.com/book/show/11588.The_Shining)
-- [📕 1978: hitchhikers guide to the galaxy](https://www.goodreads.com/series/40957-hitchhiker-s-guide-to-the-galaxy)
-- [📕 The soul of new machine (1981)](https://www.goodreads.com/book/show/7090.The_Soul_of_a_New_Machine)
-- [📕 The wasp factory (1984)](https://www.goodreads.com/book/show/567678.The_Wasp_Factory)
-- [📕 Blood meridian (1985)](https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West)
-- [📕 The silence of the lambs (1988)](https://www.goodreads.com/book/show/23807.The_Silence_of_the_Lambs)
-- [📕 Geek love (1989)](https://www.goodreads.com/book/show/13872.Geek_Love)
-- [📕 The remains of the day (1989)](https://www.goodreads.com/book/show/28921.The_Remains_of_the_Day)
-- [📕 The story of B: an adventure of the mind and spirit (1996)](https://www.goodreads.com/book/show/214579.The_Story_of_B)
-- [📕 Infinite jest (1996)](https://www.goodreads.com/book/show/6759.Infinite_Jest)
-- [📕 The perks of being a wallflower (1999)](https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower)
-- [📕 Cryptonomicon (1999)](https://www.goodreads.com/book/show/816.Cryptonomicon)
-- [📕 House of leaves (2000)](https://www.goodreads.com/book/show/24800.House_of_Leaves)
-- [📕 The Bug (2003)](https://www.goodreads.com/book/show/138805.The_Bug)
-- [📕 The road (2006)](https://www.goodreads.com/book/show/6288.The_Road)
-- [📖 The metamorphosis of prime intellect (2007)](http://localroger.com/prime-intellect/mopiidx.html)
-- [📕 The passage (2010)](https://www.goodreads.com/series/53226-the-passage)
-- [📖 Harry potter and the methods of rationality (2015)](http://www.hpmor.com/wordpress/wp-content/uploads/2012/03/Harry-Potter-and-the-Methods-of-Rationality.pdf)
-- [📖 Unsong (2017)](http://unsongbook.com/)
 
 ### Adventure
 
 - [📕 The count of monte cristo (1844)](https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo)
-
-### Comedy
-
-- [📕 A confederacy of dunces (1980)](https://www.goodreads.com/book/show/310612.A_Confederacy_of_Dunces)
-
-### Fantasy
-
-- [📕 The stand (1978)](https://www.goodreads.com/book/show/149267.The_Stand)
-- [📕 American gods (2001)](https://www.goodreads.com/book/show/30165203-american-gods)
-- [📕 The night circus (2011)](https://www.goodreads.com/book/show/9361589-the-night-circus)
-
-#### Fantasy series
-
-- [📕 A song of ice and fire](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire)
-- [📕 The stormlight archive](https://www.goodreads.com/series/49075-the-stormlight-archive)
-- [📕 The wheel of time](https://www.goodreads.com/series/41526-the-wheel-of-time)
-
-### Short Stories
-
-- [📖 Alice in Wonderland (1865)](https://www.holloway.com/g/alice-in-wonderland)
-- [📕 Ficciones (1941-1956)](https://www.goodreads.com/book/show/426504.Ficciones)
-- [📕 The little prince (1943)](https://www.goodreads.com/book/show/157993.The_Little_Prince)
-- [📖 The last question (1956)](https://www.goodreads.com/book/show/4808763-the-last-question)
-- [📕 Franz kafka: the complete stories (1971)](https://www.goodreads.com/book/show/22904.The_Complete_Stories)
-- [📕 Understand (1991)](https://www.goodreads.com/book/show/7234685-understand)
-- [📕 Story of your life (1998)](https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others)
-- [📖 The fable of the dragon-tyrant (2005)](http://www.nickbostrom.com/fable/dragon.html)
-
-### Thriller
-
-- [📕 And then there were none (1939)](https://www.goodreads.com/book/show/16299.And_Then_There_Were_None)
-
-## Film Making
-
-- [📕 On film making: an introduction to the craft of the director (2005)](https://www.goodreads.com/book/show/875419.On_Filmmaking)
-
-## Finance
-
-- [📕 The richest man in babylon (1926)](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon)
-- [📕 Rich dad poor dad (1997)](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad)
 
 ## Fitness
 
@@ -471,40 +303,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [📕 The elements of typographic style (1992)](https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style)
 - [📕 Logo design love (2015)](https://www.goodreads.com/book/show/6728983-logo-design-love)
-
-## History
-
-- [📕 The souls of black folk (1903)](https://www.goodreads.com/book/show/318742.The_Souls_of_Black_Folk)
-- [📕 Gravity’s rainbow (1973)](https://www.goodreads.com/book/show/415.Gravity_s_Rainbow)
-- [📕 The gulag archipelago (1973)](https://www.goodreads.com/book/show/70561.The_Gulag_Archipelago_1918_1956)
-- [📕 American slavery, american freedom (1975)](https://www.goodreads.com/book/show/43365.American_Slavery_American_Freedom)
-- [📕 A people’s history of the united states (1980)](https://www.goodreads.com/book/show/2767.A_People_s_History_of_the_United_States)
-- [📕 Hackers: Heroes of the Computer Revolution (1984)](https://www.goodreads.com/book/show/56829.Hackers)
-- [📕 The making of atomic bomb (1986)](https://www.goodreads.com/book/show/16884.The_Making_of_the_Atomic_Bomb)
-- [📕 Lenin's tomb: the last days of the soviet empire (1993)](https://www.goodreads.com/book/show/113206.Lenin_s_Tomb)
-- [📕 Why the allies won (1995)](https://www.goodreads.com/book/show/831378.Why_the_Allies_Won)
-- [📕 Lies my teacher told me (1995)](https://www.goodreads.com/book/show/296662.Lies_My_Teacher_Told_Me)
-- [📕 Guns, germs, and steel: the fates of human societies (1997)](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel)
-- [📕 Two hundred years together (2002)](https://www.goodreads.com/book/show/28008677-200-years-together-two-hundred-years-together?rating=2)
-- [📕 Masters of doom (2003)](https://www.goodreads.com/book/show/222146.Masters_of_Doom)
-- [📕 Stalin: the court of the red tsar (2003)](https://www.goodreads.com/book/show/282108.Stalin)
-- [The Third Reich trilogy (2003-2008)](https://www.goodreads.com/book/show/3761596-the-third-reich-at-war)
-  - [📕 The coming of the third reich](https://www.goodreads.com/book/show/319473.The_Coming_of_the_Third_Reich)
-  - [📕 The third reich in power](https://www.goodreads.com/book/show/536788.The_Third_Reich_in_Power)
-  - [📕 The third reich at war](https://www.goodreads.com/book/show/3761596-the-third-reich-at-war)
-- [📕 Sapiens: a brief history of humankind (2011)](https://www.goodreads.com/book/show/23692271-sapiens)
-- [📕 The origins of political order (2011)](https://www.goodreads.com/book/show/9704856-the-origins-of-political-order)
-- [📕 The idea factory: bell labs and the great age of american innovation (2012)](https://www.goodreads.com/book/show/11797471-the-idea-factory)
-- [📕 Memory Machines: The Evolution of Hypertext (2013)](https://www.goodreads.com/book/show/17867988)
-- [📕 The sixth extinction: an unnatural history (2014)](https://www.goodreads.com/book/show/17910054-the-sixth-extinction)
-- [📕 Political order and political decay (2014)](https://www.goodreads.com/book/show/20575435-political-order-and-political-decay)
-- [📕 Conquerors: how portugal forged the first global empire (2015)](https://www.goodreads.com/book/show/25255039-conquerors)
-- [📕 Homo deus: a brief history of tomorrow (2015)](https://www.goodreads.com/book/show/31138556-homo-deus)
-- [📕 Beyond Germs: Native Depopulation in North America (2015)](https://www.goodreads.com/book/show/25362826-beyond-germs)
-
-### Alternative history
-
-- [📕 The man in the high castle (1962)](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle)
 
 ## Investing
 
@@ -603,60 +401,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Abstract Algebra: Theory and Applications](http://abstract.ups.edu/download/aata-20160809-sage-7.3.pdf)
 - [📖 Linear algebra](http://joshua.smcvt.edu/linearalgebra/book.pdf)
 
-## Memoirs
-
-- [📕 Walden (1854)](https://www.goodreads.com/book/show/16902.Walden)
-- [📕 The world of yesterday (1942)](https://www.goodreads.com/book/show/629429.The_World_of_Yesterday)
-- [📕 On writing (2000)](https://www.goodreads.com/book/show/10569.On_Writing)
-- [📕 A thousand tiny failures: memoirs of a pickup artist (2014)](https://www.goodreads.com/book/show/18711276-a-thousand-tiny-failures)
-
-## Mindset
-
-- [📕 Tao te ching (6th century BC)](https://www.goodreads.com/book/show/67896.Tao_Te_Ching)
-- [📕 Meditations (161)](https://www.goodreads.com/book/show/30659.Meditations)
-- [📕 The Zen Teaching of Huang Po: On the Transmission of Mind (857)](https://www.goodreads.com/book/show/276779.The_Zen_Teaching_of_Huang_Po)
-- [📕 Siddhartha (1922)](https://www.goodreads.com/book/show/52036.Siddhartha)
-- [📕 How to win friends and influence people (1936)](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
-- [📕 Think and grow rich (1937)](https://www.goodreads.com/book/show/30186948-think-and-grow-rich)
-- [📕 The stranger (1942)](https://www.goodreads.com/book/show/49552.The_Stranger)
-- [📕 Man’s search for meaning (1946)](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
-- [📖 The wisdom of insecurity: a message for an age of anxiety (1951)](https://antilogicalism.files.wordpress.com/2017/07/wisdom-of-insecurity.pdf)
-- [📕 The first and last freedom (1954)](https://www.goodreads.com/book/show/64710.The_First_and_Last_Freedom)
-- [📕 The way of zen (1957)](https://www.goodreads.com/book/show/514210.The_Way_of_Zen)
-- [📕 The book on the taboo against knowing who you are (1966)](https://www.goodreads.com/book/show/60551.The_Book_on_the_Taboo_Against_Knowing_Who_You_Are)
-- [📕 Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice (1970)](https://www.goodreads.com/book/show/402843.Zen_Mind_Beginner_s_Mind)
-- [📕 Be here now (1971)](https://www.goodreads.com/book/show/29254.Be_Here_Now)
-- [📕 The Way of the Bodhisattva (1971)](https://www.goodreads.com/book/show/301928.The_Way_of_the_Bodhisattva)
-- [📕 The inner game of tennis (1974)](https://www.goodreads.com/book/show/905.The_Inner_Game_of_Tennis)
-- [📕 The 7 habits of highly effective people (1989)](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People)
-- [📕 The Zen Teaching of Bodhidharma (1989)](https://www.goodreads.com/book/show/238863.The_Zen_Teaching_of_Bodhidharma)
-- [📕 Peace is every step (1990)](https://www.goodreads.com/book/show/14572.Peace_Is_Every_Step)
-- [📖 Mindfulness in plain english (1992)](http://misc.equanimity.info/downloads/mindfulness_in_plain_english.pdf)
-- [📕 Mastery: the keys to success and long term fulfilment (1992)](https://www.goodreads.com/book/show/81940.Mastery)
-- [📕 The Four Noble Truths (1992)](https://www.goodreads.com/book/show/25103623-the-four-noble-truths)
-- [📕 No Ajahn Chah: Reflections (1994)](https://www.goodreads.com/book/show/1948802.No_Ajahn_Chah)
-- [📕 The Art of Happiness (1998)](https://www.goodreads.com/book/show/38210.The_Art_of_Happiness)
-- [📕 The Quantum and the Lotus (2000)](https://www.goodreads.com/book/show/222652.The_Quantum_and_the_Lotus)
-- [📕 Emptiness dancing (2004)](https://www.goodreads.com/book/show/190055.Emptiness_Dancing)
-- [📕 Mindfulness, Bliss, and Beyond: A Meditator's Handbook (2006)](https://www.goodreads.com/book/show/206625.Mindfulness_Bliss_and_Beyond)
-- [📕 Eating animals (2009)](https://www.goodreads.com/book/show/6604712-eating-animals)
-- [📕 The happiness advantage (2010)](https://www.goodreads.com/book/show/9484114-the-happiness-advantage)
-- [📕 Models (2011)](https://www.goodreads.com/book/show/12633800-models)
-- [📕 Mastery (2012)](https://www.goodreads.com/book/show/13589182-mastery)
-- [📕 A mind for numbers: how to excel at math and science (2014)](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)
-- [📕 Spaciousness: The Radical Dzogchen of the Vajra-Heart: Longchenpa's Treasury of the Dharmadhatu (2014)](https://www.goodreads.com/book/show/22783031-spaciousness)
-- [📕 Waking up: a guide to spirituality without religion (2014)](https://www.goodreads.com/book/show/18774981-waking-up)
-- [📕 Deep Work: Rules for Focused Success in a Distracted World (2016)](https://www.goodreads.com/book/show/25744928)
-- [📕 The Daily Stoic: 366 Meditations for Clarity, Effectiveness, and Serenity (2016)](https://www.goodreads.com/book/show/29093292-the-daily-stoic)
-- [📖 Concentration and meditation](http://krishnamurti.abundanthope.org/index_htm_files/Concentration-and-Meditation.pdf)
-
-## Minimalism
-
-- [📕 Goodbye, Things: The New Japanese Minimalism (2017)](https://www.goodreads.com/book/show/30231806-goodbye-things)
-
-## Music production
-
-- [📕 Harmony for Computer Musicians (2010)](https://www.goodreads.com/book/show/8441567-harmony-for-computer-musicians)
 
 ## Neuroscience
 
@@ -668,19 +412,12 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Synaptic self: how our brains become who we are (2002)](https://www.goodreads.com/book/show/151132.Synaptic_Self)
 - [📕 The Brain That Changes Itself (2007)](https://www.goodreads.com/book/show/570172.The_Brain_That_Changes_Itself)
 
-## Non Fiction
-
-- [📕 Homage to catalonia (1938)](https://www.goodreads.com/book/show/9646.Homage_to_Catalonia)
-- [📕 Into thin air (1997)](https://www.goodreads.com/book/show/1898.Into_Thin_Air)
-- [📕 Damned lies and statistics (2001)](https://www.goodreads.com/book/show/51289.Damned_Lies_and_Statistics)
-- [📕 Coders at work: reflections on the craft of programming (2009)](https://www.goodreads.com/book/show/6713575-coders-at-work)
-
 ## Nutrition
 
 - [📕 Advanced Nutrition and Human Metabolism (1995)](https://www.goodreads.com/book/show/1387387.Advanced_Nutrition_and_Human_Metabolism_With_Infotrac_)
 - [📕 The Poor, Misunderstood Calorie: Calories Proper (2012)](https://www.goodreads.com/book/show/15874542-the-poor-misunderstood-calorie)
 - [📕 Gut: The Inside Story of Our Body’s Most Underrated Organ (2014)](https://www.goodreads.com/book/show/23013953-gut)
-- [📕 How not to die (2015)](https://www.goodreads.com/book/show/25663961-how-not-to-die)
+
 
 ## Operating Systems
 
@@ -704,15 +441,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [📕 Mac OS X and IOS Internals: To the Apple's Core, Volume 1 User Mode (2015)](https://www.goodreads.com/book/show/24730644-mac-os-x-and-ios-internals)
 
-## Philosophy
-
-- [📕 Godel, escher, bach (1979)](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) - Explores fundamental concepts of mathematics, symmetry and intelligence and how they interlink.
-  - [Lecture notes](https://ocw.mit.edu/high-school/humanities-and-social-sciences/godel-escher-bach/lecture-notes/)
-  - [Course on the book](https://www.youtube.com/playlist?list=PL068ES-0ca9CSIp5OPGI5RXB3k5XgYRxF)
-  - [Python implementation of formal systems from the book](https://github.com/alexprengere/FormalSystems)
-- [📕 Prometheus rising (1983)](https://www.goodreads.com/book/show/28597.Prometheus_Rising)
-- [📕 Finite and infinite games (1986)](https://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games)
-- [📕 The stuff of thought (2007)](https://www.goodreads.com/book/show/373969.The_Stuff_of_Thought)
 
 ## Physics
 
@@ -727,17 +455,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 The theoretical minimum (2013)](https://www.goodreads.com/book/show/13587145-the-theoretical-minimum)
 - [📖 The feynman lectures on physics (2013)](http://feynmanlectures.caltech.edu/)
 
-## Poetry
-
-- [📕 Letters to a Young Poet (1929)](https://www.goodreads.com/book/show/46199)
-
-## Politics
-
-- [📕 The road to serfdom (1944)](https://www.goodreads.com/book/show/299215.The_Road_to_Serfdom)
-- [📕 The anatomy of the state (1974)](https://www.goodreads.com/book/show/6613404-anatomy-of-the-state)
-- [📕 Understanding power: the indispensable chomsky (2002)](https://www.goodreads.com/book/show/194805.Understanding_Power)
-- [📕 The dictator's handbook: why bad behaviour is almost always good politics (2011)](https://www.goodreads.com/book/show/11612989-the-dictator-s-handbook)
-- [📕 The democracy project: a history, a crisis, a movement (2013)](https://www.goodreads.com/book/show/13330433-the-democracy-project)
 
 ## Programming interviews
 
@@ -969,16 +686,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Designing APIs with Swagger and OpenAPI (early-access)](https://www.manning.com/books/designing-apis-with-swagger-and-openapi)
 - [📕 API Design Patterns](https://www.manning.com/books/api-design-patterns)
 
-## Psychedelics
-
-- [📖 LSD: My Problem Child (1979)](https://www.erowid.org/library/books_online/lsd_my_problem_child)
-- [📕 Tryptamine Palace: 5-MeO-DMT and the Sonoran Desert Toad (2009)](https://www.goodreads.com/book/show/5519081-tryptamine-palace)
-- [📖 Tryptamines I Have Known And Loved: The Chemistry Continues](https://erowid.org/library/books_online/tihkal/tihkal.shtml)
-- [📕 The invisible landscape: mind, hallucinogens, and the i ching (1994)](https://www.goodreads.com/book/show/191375.The_Invisible_Landscape)
-- [📖 The Cosmic Serpent: DNA and the origins of knowledge (1998)](https://www.indybay.org/uploads/2011/04/17/cosmicserp.pdf)
-- [📕 Breaking open the head (2002)](https://www.goodreads.com/book/show/1815.Breaking_Open_the_Head)
-- [📕 Supernatural: meetings with the ancient teachers of mankind (2005)](https://www.goodreads.com/book/show/53324.Supernatural)
-
 ## Psychology
 
 - [📕 Thinking, Fast and Slow (2011)](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
@@ -1015,33 +722,9 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Scifi
 
-- [📕 The sirens of titan (1959)](https://www.goodreads.com/book/show/4982.The_Sirens_of_Titan)
-- [📕 Stranger in a strange land (1961)](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land)
-- [📕 Cat’s cradle (1963)](https://www.goodreads.com/book/show/135479.Cat_s_Cradle)
-- [📕 Do androids dream of electric sheep? (1968)](https://www.goodreads.com/book/show/7082.Do_Androids_Dream_of_Electric_Sheep_)
-- [📕 Ubik (1969)](https://www.goodreads.com/book/show/22590.Ubik)
-- [📕 The mote in god's eye (1974)](https://www.goodreads.com/book/show/100365.The_Mote_in_God_s_Eye)
 - [📕 Neuromancer (1984)](https://www.goodreads.com/book/show/22328.Neuromancer)
 - [📕 Ender’s game (1985)](https://www.goodreads.com/book/show/375802.Ender_s_Game)
-- [📕 The player of games (1988)](https://www.goodreads.com/book/show/18630.The_Player_of_Games)
-- [📕 A fire upon the deep (1992)](https://www.goodreads.com/book/show/77711.A_Fire_Upon_the_Deep)
-- [📕 Snow crash (1992)](https://www.goodreads.com/book/show/830.Snow_Crash)
-- [📕 Permutation city (1994)](https://www.goodreads.com/book/show/156784.Permutation_City)
-- [📕 The diamond age (1995)](https://www.goodreads.com/book/show/827.The_Diamond_Age)
-- [📕 The martian (2011)](https://www.goodreads.com/book/show/18007564-the-martian)
-- [📕 Golden son (2015)](https://www.goodreads.com/book/show/18966819-golden-son)
-- [📕 The dispossessed](https://www.goodreads.com/book/show/13651.The_Dispossessed)
-- [📕 Blindsight](https://www.goodreads.com/book/show/48484.Blindsight)
 
-### SciFi Series
-
-- [📕 The baroque cycle](https://www.goodreads.com/series/49317-the-baroque-cycle)
-- [📕 Hyperion cantos](https://www.goodreads.com/series/40461-hyperion-cantos)
-- [📕 The dark tower](https://www.goodreads.com/series/40750-the-dark-tower)
-- [📕 Foundation](https://www.goodreads.com/series/59386-foundation-publication-order)
-- [📕 Red rising](https://www.goodreads.com/book/show/15839976-red-rising)
-- [📕 Culture](https://www.goodreads.com/series/49118-culture)
-- [📕 Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama)
 
 ## Security
 
@@ -1050,19 +733,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 The tangled web (2011)](https://www.goodreads.com/book/show/11553604-the-tangled-web) - Detailed look at the foundations of web protocols followed by a thorough examination of their weakness.
 - [📖 The web application hackers handbook (2014)](https://leaksource.files.wordpress.com/2014/08/the-web-application-hackers-handbook.pdf)
 - [📕 The browser hacker's handbook (2014)](https://www.goodreads.com/book/show/17891588-the-browser-hacker-s-handbook) - A detailed look into many web security topics.
-
-## Sleep
-
-- [📕 Why We Sleep: Unlocking the Power of Sleep and Dreams (2017)](https://www.goodreads.com/book/show/34466963-why-we-sleep)
-
-## Society
-
-- [📕 The utopia of rules (2015)](https://www.goodreads.com/book/show/22245334-the-utopia-of-rules)
-
-## Spirituality
-
-- [📕 The Quantum and the Lotus: A Journey to the Frontiers Where Science and Buddhism Meet (2000)](https://www.goodreads.com/book/show/222652.The_Quantum_and_the_Lotus)
-- [📕 Journey of souls: case studies of life between lives (1994)](https://www.goodreads.com/book/show/104979.Journey_of_Souls)
 
 ## Startups
 
@@ -1160,17 +830,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [📕 Don’t make me think (2000)](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 
-## Other
-
-- [Awesome fantasy](https://github.com/RichardLitt/awesome-fantasy)
-- [Awesome scifi](https://github.com/sindresorhus/awesome-scifi)
-- [Book notes](https://github.com/mgp/book-notes)
-- [Book suggestions subreddit](https://www.reddit.com/r/booksuggestions)
-- [Free programming books](https://github.com/EbookFoundation/free-programming-books)
-- [Influential CS books](https://github.com/chhantyal/influential-cs-books)
-- [Language-agnostic programming books](https://news.ycombinator.com/item?id=14486657)
-- [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books)
-- [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers)
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
