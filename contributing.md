@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for taking the time to contribute! ♥️ Ensure your PR adheres to following guidelines:
+Thank you for taking the time to contribute! ♥️ Ensure your pull requests adhere to following:
 
 - Search included books before adding a new one, as yours may be a duplicate.
 - Only add books you think are great! Feel welcome to remove entries that you think aren't great!
