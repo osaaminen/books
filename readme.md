@@ -181,8 +181,6 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 The strangest man (2009)](https://www.goodreads.com/book/show/6629359-the-strangest-man)
 - [📕 Steve Jobs (2011)](https://www.goodreads.com/book/show/11084145-steve-jobs)
 - [📕 The Everything Store: Jeff Bezos and the Age of Amazon (2013)](https://www.goodreads.com/book/show/17660462-the-everything-store)
-- [📕 Elon Musk: tesla, spacex, and the quest for a fantastic future (2015)](https://www.goodreads.com/book/show/22543496-elon-musk)
-- [📕 Trump revealed: the definitive biography of the 45th president (2017)](https://www.goodreads.com/book/show/29906336-trump-revealed)
 - [📕 My Journey: Transforming Dreams into Actions by A.P.J Abdul Kalam ](https://www.goodreads.com/book/show/18371021-my-journey)
 
 ## Biology
